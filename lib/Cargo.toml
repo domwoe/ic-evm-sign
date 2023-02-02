@@ -8,8 +8,8 @@ readme = "../README.md"
 documentation = "https://docs.rs/ic-evm-sign"
 
 [dependencies]
-ic-cdk = "0.5.2"
-candid = "0.7.14"
+ic-cdk = "0.6.8"
+candid = "0.8.4"
 serde = "1"
 ethereum-rlp = "0.2.3"
 easy-hasher = "2.2.1"
